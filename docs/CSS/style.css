@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #162b4e;
+    background-color: #FCDCDF;
 }
 
 p {
@@ -24,6 +24,29 @@ h2{
     height: 80%;
 }
 
-.inicio text{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    font-family: Verdana, sans-serif;
+}
+p {
+    font-family: Georgia, serif; 
+}
+
+.custom-card-text {
+    color: black;
+}
+
+.card-text{
+    color: black;
+}
+
+.card-body{
+    background-color: #C997C6;
+}
+
+.btn{
+    background-color: #B0EFEF;
+    color: black;
 }
